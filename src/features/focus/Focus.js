@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: colors.white,
-    fontWight: 'bold',
+    fontWeight: 'bold',
     fontSize: fontSizes.lg,
   },
   inputContainer: {
