@@ -2,7 +2,7 @@
 
 ## This app is a simple timer app made with react native. It operates with Expo, so to run, use the command "yarn start" in the terminal. ## 
 
-### You can view the app on an ios or android simulator, or through the Expo app on your deivce by scanning the QR code in the terminal.###
+### You can view the app on an ios or android simulator, or through the Expo app on your deivce by scanning the QR code in the terminal. ###
 
 This app supports:
 * Typing in a subject to "focus" on for any amount of time
