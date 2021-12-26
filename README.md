@@ -1,11 +1,14 @@
-# Sample Snack app
+# React Timer App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This app is a simple timer app made with react native. It operates with Expo, so to run, use the command "yarn start" in the terminal.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+You can view the app on an ios or android simulator, or through the Expo app on your deivce by scanning the QR code in the terminal.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+This app supports:
+ -- Typing in a subject to "focus" on for any amount of time
+ -- Then, press the + button to navigate to the next screen
+ -- Then, choose a 10, 15, or 20 minute timer
+ -- Press start when you're ready!
+ -- You can end the task early by pressing the button in the bottom left corner
+ 
+This app also keeps track of the tasks that you have and haven't completed in the home screen. It can maintain this information between uses. To clear this information, press the clear button on the bottom of the home screen
