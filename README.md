@@ -4,8 +4,8 @@
 
 ### You can view the app on an ios or android simulator, or through the Expo app on your deivce by scanning the QR code in the terminal. ###
 
-This app supports:
-* Typing in a subject to "focus" on for any amount of time
+To operate:
+* Type in a subject to "focus" on
 * Then, press the + button to navigate to the next screen
 * Then, choose a 10, 15, or 20 minute timer
 * Press start when you're ready!
